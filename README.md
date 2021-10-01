@@ -1,4 +1,4 @@
-# Block chain example with reactjs , ganache , truffle , smartcontract example for beginners
+# Blockchain example with reactjs , ganache , truffle , smartcontract example for beginners
 
 
 1. Create a project folder with project name 
