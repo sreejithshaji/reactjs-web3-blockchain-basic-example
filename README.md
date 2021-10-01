@@ -1,4 +1,7 @@
- 1. Create a project folder with project name 
+#Block chain example with reactjs , ganache , truffle , smartcontract example for beginners
+
+
+1. Create a project folder with project name 
  2. inside the project folder first initialize truffle
 
         truffle init
