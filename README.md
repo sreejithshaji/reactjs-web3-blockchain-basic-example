@@ -22,7 +22,7 @@
  
  6. Now start ganache 
  * Go to the truffle directory 
- * Open truffle-config.js and uncomment these lines and change port 
+ * Open truffle-config.js and uncomment these lines and change port in accordance with your ganache
   ```js
 
      contracts_build_directory: "./src/abi",
